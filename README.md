@@ -1,7 +1,5 @@
-# Code Institute
+# Django blog mini project
 
-Welcome USER_NAME,
+A simple blog app using Django.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Pracice for course
